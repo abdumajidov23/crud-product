@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#admin .active {
+  background: #ffffff;
+  color: #000000;
+}
